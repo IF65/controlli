@@ -1,0 +1,13 @@
+{
+    "name": "if65/controlli",
+    "authors": [
+        {
+            "name": "Marco Gnecchi",
+            "email": "marco.gnecchi@icloud.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "ulrichsg/getopt-php": "^3.4"
+    }
+}
